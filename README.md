@@ -1,21 +1,44 @@
-# sms2sms
+# The Next Organization Will Not Be Organized.
 
-1. What becomes possible beyond infrastructures organized by domination?
+Four questions about power, infrastructure and the commons:
 
-2. What if infrastructure no longer meant dependency?
-
-3. What if the means to meet fundamental needs were commons rather than commodities?
-
-4. What if these infrastructures remained functional even against the interests of dominant actors?
-
----
+1. **Arrangement** — What becomes possible beyond infrastructures organized by domination?
+2. **Access** — What if infrastructure no longer meant dependency?
+3. **Legitimation** — What if the means to meet fundamental needs were commons rather than commodities?
+4. **Enforcement** — What if these infrastructures remained functional even against the interests of dominant actors?
 
 ## Work in progress
 
-- [#PlanD](https://github.com/sms2sms/PlanD) — OBSERVE → PARAMETRIZE → ENABLE → TEST.
-- [#AutarkieIndex](https://github.com/sms2sms/AutarkieIndex) — Needs, not wants. Availability, not ownership. [Research site](https://2030.autarkieindex.org/).
-- [#FuornAviert](https://github.com/sms2sms/FuornAviert) — GRAN → MULIN → FUORN → PAUN. A #PlanD TEST project.
-- [Q102014 / setting](https://github.com/Q102014/setting) — SmartSetting · Xerocracy · Blockchain · CommunityCare · NextNotability.
+### Q102014 — Setting and infrastructure
 
-[dissent.is](https://dissent.is/)
+#SmartSetting · #Xerocracy · #Blockchain · #CommunityCare · #NextNotability
 
+- Project: https://Q102014.xyz/
+- GitHub: https://github.com/Q102014/setting
+
+### #PlanD — Four operations
+
+OBSERVE → PARAMETRIZE → ENABLE → TEST
+
+- Project: https://dissent.is/PlanD
+- GitHub: https://github.com/sms2sms/PlanD
+
+### #AutarkieIndex — Needs, availability, dependencies
+
+Needs, not wants. Availability, not ownership. The dimensions and indicators remain open to investigation.
+
+- Research: https://2030.autarkieindex.org/
+- GitHub: https://github.com/sms2sms/AutarkieIndex
+
+### #FuornAviert — A #PlanD TEST
+
+GRAN → MULIN → FUORN → PAUN. Testing a regional grain-to-bread infrastructure.
+
+- Project: https://dissent.is/FuornAviert
+- GitHub: https://github.com/sms2sms/FuornAviert
+
+---
+
+More work in progress: https://dissent.is/
+
+CC0 1.0 Universal.
