@@ -1,4 +1,4 @@
-# #TNOWNBO The Next Organization Will Not Be Organized.
+# The Next Organization Will Not Be Organized #TNOWNBO 
 
 Four questions about power, infrastructure and the commons:
 
