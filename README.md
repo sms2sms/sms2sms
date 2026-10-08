@@ -2,10 +2,10 @@
 
 Four questions about power, infrastructure and the commons:
 
-1. **Arrangement** — What becomes possible beyond infrastructures organized by domination?
-2. **Access** — What if infrastructure no longer meant dependency?
-3. **Legitimation** — What if the means to meet fundamental needs were commons rather than commodities?
-4. **Enforcement** — What if these infrastructures remained functional even against the interests of dominant actors?
+1. **Arrangement** — Anarchy
+2. **Access** — Commons
+3. **Legitimation** — Inclusion
+4. **Enforcement** — Pacifism
 
 ## Work in progress
 
